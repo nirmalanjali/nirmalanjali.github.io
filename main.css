@@ -97,7 +97,7 @@ hr {
 }
 
 #home {
-  background-color: #080808;
+  background-color: linear-gradient(to left, #353F5A, #080808);
 }
 
 #about {
@@ -188,11 +188,11 @@ hr {
 }
 
 #education {
-  background-color: #080808;
+  background-color: linear-gradient(to left, #353F5A, #080808);
 }
 
 #skills {
-  background-color: #080808;
+  background-color: linear-gradient(to left, #353F5A, #080808);
 }
 
 #skills-container {
@@ -263,7 +263,7 @@ hr {
 }
 
 #footer {
-  background-color: #080808;
+  background-color: linear-gradient(to left, #353F5A, #080808);
   text-align: center;
   padding: 20px;
 }
