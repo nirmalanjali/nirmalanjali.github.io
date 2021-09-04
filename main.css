@@ -716,6 +716,7 @@ hr {
 }
 
 .slidertwo {
+  position: absolute;
   background: linear-gradient(to left, #353F5A, #080808);
 }
 
