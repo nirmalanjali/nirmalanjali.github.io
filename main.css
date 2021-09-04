@@ -356,7 +356,7 @@ hr {
   outline: none;
   background-color: #0171E3;
   border-radius: 10px;
-  border: 2px solid #E29F8D;
+  border: 2px solid #F3EFE0;
   opacity: 0.7;
 }
 
@@ -521,7 +521,7 @@ hr {
 }
 
 #sidebar ul li:hover {
-  background-color: #E29F8D;
+  background-color: #F3EFE0;
 }
 
 #sidebar ul li:hover a {
@@ -538,12 +538,12 @@ hr {
 #sidebar .social_media a {
   display: block;
   width: 40px;
-  background: #E29F8D;
+  background: #F3EFE0;
   height: 40px;
   line-height: 45px;
   text-align: center;
   margin: 0 5px;
-  color: #F3EFE0;
+  color: #0171E3;
   border-radius: 5px;
   transition: all .2s ease-in-out;
 }
