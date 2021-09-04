@@ -188,11 +188,11 @@ hr {
 }
 
 #education {
-  background-color: #353F5A;
+  background-color: linear-gradient(to left, #353F5A, #080808);
 }
 
 #skills {
-  background-color: #080808;
+  background-color: linear-gradient(to left, #353F5A, #080808);
 }
 
 #skills-container {
@@ -217,7 +217,7 @@ hr {
 }
 
 #connect {
-  background-color: #353F5A;
+  background-color: #161616;
 }
 
 #connect .connect_social_media {
