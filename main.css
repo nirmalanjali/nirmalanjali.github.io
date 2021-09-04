@@ -375,7 +375,7 @@ hr {
 .hamburger.is-active .hamburger-inner,
 .hamburger.is-active .hamburger-inner::before,
 .hamburger.is-active .hamburger-inner::after {
-  background-color: #EBBBAD;
+  background-color: #F3EFE0;
 }
 
 .hamburger-box {
@@ -396,7 +396,7 @@ hr {
 .hamburger-inner::after {
   width: 40px;
   height: 4px;
-  background-color: #EBBBAD;
+  background-color: #F3EFE0;
   border-radius: 4px;
   position: absolute;
   transition-property: transform;
@@ -505,13 +505,13 @@ hr {
 #sidebar ul li {
   list-style-type: none;
   padding: 15px;
-  border-bottom: 1px solid #EBBBAD;
+  border-bottom: 1px solid #F3EFE0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
   border-top: 1px solid rgba(255, 255, 255, 0.05);
 }
 
 #sidebar ul li a {
-  color: #EBBBAD;
+  color: #F3EFE0;
   display: block;
   text-decoration: none;
 }
