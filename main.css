@@ -100,12 +100,12 @@ hr {
   background-color: #080808;
 }
 
-#about {
+#thegurus {
   background-color: #161616;
   z-index: 1;
 }
 
-#about img {
+#thegurus img {
   width: 60%;
   height: auto;
   display: block;
@@ -187,15 +187,15 @@ hr {
   margin: auto;
 }
 
-#education {
+#theacademy {
   background-color: #080808;
 }
 
-#skills {
+#contact {
   background-color: #080808;
 }
 
-#skills-container {
+#contact-container {
   display: flex;
   width: 75%;
   max-width: 80vw;
@@ -203,7 +203,7 @@ hr {
   flex-wrap: wrap;
 }
 
-.skill {
+.contact {
   font-size: 20px;
   padding: 10px;
   margin: 10px;
@@ -212,7 +212,7 @@ hr {
   display: inline-block;
 }
 
-#experience {
+#testimony {
   background-color: #161616;
 }
 
@@ -658,7 +658,7 @@ hr {
   .tile p {
     padding-right: 150px;
   }
-  .experience-separator {
+  .testimony-separator {
     margin-right: 150px
   }
 }
@@ -688,7 +688,7 @@ hr {
     flex-direction: row-reverse;
   }
 
-  #about img {
+  #thegurus img {
     width: 75%;
   }
 
