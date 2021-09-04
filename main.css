@@ -97,7 +97,7 @@ hr {
 }
 
 #home {
-  background-color: #353F5A;
+  background-color: #080808;
 }
 
 #about {
@@ -188,11 +188,11 @@ hr {
 }
 
 #education {
-  background-color: #353F5A;
+  background-color: linear-gradient(to left, #353F5A, #080808);
 }
 
 #skills {
-  background-color: #353F5A;
+  background-color: linear-gradient(to left, #353F5A, #080808);
 }
 
 #skills-container {
@@ -263,7 +263,7 @@ hr {
 }
 
 #footer {
-  background-color: #353F5A;
+  background-color: linear-gradient(to left, #353F5A, #080808);
   text-align: center;
   padding: 20px;
 }
@@ -712,11 +712,6 @@ hr {
   left: 0;
   width: 100%;
   height: 100vh;
-  background: linear-gradient(to left, #353F5A, #080808);
-}
-
-.slidertwo {
-  position: absolute;
   background: linear-gradient(to left, #353F5A, #080808);
 }
 
