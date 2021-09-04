@@ -212,7 +212,7 @@ hr {
   display: inline-block;
 }
 
-#testimony {
+#blog {
   background-color: #161616;
 }
 
@@ -658,7 +658,7 @@ hr {
   .tile p {
     padding-right: 150px;
   }
-  .testimony-separator {
+  .blog-separator {
     margin-right: 150px
   }
 }
