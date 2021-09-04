@@ -57,7 +57,7 @@ h5 {
 .page h1 {
   margin-top: 0;
   text-align: center;
-  color: #C3423F;
+  color: #0171E3;
 }
 
 .title-heading {
@@ -69,14 +69,14 @@ h5 {
 
 .title-heading h1 {
   font-size: 50px;
-  color: #C3423F;
+  color: #0171E3;
   font-size: 10rem;
   opacity: .2;
   margin: 0;
 }
 
 .title-heading h6 {
-  color: #C3423F;
+  color: #0171E3;
   font-size: 4rem;
   font-weight: 400;
   margin: 0;
@@ -171,7 +171,7 @@ hr {
 
 .school .descriptor {
   text-transform: uppercase;
-  color: #C3423F;
+  color: #0171E3;
   font-weight: bold;
 }
 
@@ -278,7 +278,7 @@ hr {
 #landing-text h1 {
   margin: auto;
   text-align: center;
-  color: #C3423F;
+  color: #0171E3;
   max-width: 100%;
   position: relative;
   font-weight: 900;
@@ -300,7 +300,7 @@ hr {
   display: block;
   width: 10%;
   height: 2px;
-  background: #C3423F;
+  background: #0171E3;
   right: -5%;
   top: 50%;
   position: absolute;
@@ -354,7 +354,7 @@ hr {
   left: 10px;
   z-index: 100;
   outline: none;
-  background-color: #C3423F;
+  background-color: #0171E3;
   border-radius: 10px;
   border: 2px solid #E29F8D;
   opacity: 0.7;
@@ -485,7 +485,7 @@ hr {
 #sidebar {
   width: 0px;
   height: 100%;
-  background: #C3423F;
+  background: #0171E3;
   padding: 70px 0px;
   position: fixed;
   z-index: 1;
@@ -647,7 +647,7 @@ hr {
 }
 
 .link:hover {
-  color: #C3423F;
+  color: #0171E3;
 }
 
 /* Extra small devices (phones, 600px and down) */
