@@ -302,7 +302,7 @@ hr {
   height: 2px;
   background: #0171E3;
   right: -5%;
-  top: 20%;
+  top: 50%;
   position: absolute;
   transition: all .2s ease-in-out;
 }
