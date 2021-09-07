@@ -692,6 +692,9 @@ input[type=submit]:hover {
   .tile p {
     padding-right: 150px;
   }
+  .tiletwo p {
+    padding-right: 150px;
+  }
   .testimony-separator {
     margin-right: 150px
   }
@@ -783,4 +786,81 @@ section {
 
 #coder {
   overflow: visible;
+}
+
+.tiletwo {
+  display: inline-block;
+  width: 75%;
+  padding: 30px;
+  position: relative;
+  vertical-align: top;
+  margin: 10px;
+  background: #161616;
+  border-radius: 10px;
+  color: #F3EFE0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tiletwo h1 {
+  font-size: 3em;
+  color: #F3EFE0;
+  margin-bottom: 10px;
+  font-weight: normal;
+  text-align: left;
+  max-width: 80%;
+  line-height: 1;
+}
+
+.tiletwo h3 {
+  text-align: left;
+  margin: 0;
+  color: #F3EFE0;
+  font-weight: normal;
+  max-width: 70%;
+}
+
+.tiletwo h4 {
+  text-align: left;
+  padding-left: 20px;
+  margin: 0;
+  color: #F3EFE0;
+  font-weight: normal;
+  max-width: 70%;
+}
+
+.tiletwo h5 {
+  text-align: left;
+  padding-left: 20px;
+  margin-top: 0;
+  color: #F3EFE0;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+.tiletwo p {
+  font-size: 16px;
+  line-height: 18px;
+  color: #F3EFE0;
+  margin-top: 5px;
+  text-align: left;
+}
+
+.tiletwo img {
+  max-height: 110px;
+  max-width: 110px;
+  margin: 0;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: -1;
+}
+
+.tiletwo:after {
+  content: '';
+  position: absolute;
+  width: 150px;
+  height: 100%;
+  right: 0;
+  top: 0;
+  background: rgba(255, 255, 255, 0.02);
 }
