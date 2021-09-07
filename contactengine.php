@@ -1,7 +1,7 @@
 <?php
 $Email = Trim(stripslashes($_POST['Email'])); // Collecting the users email
 $EmailTo = "aaron2nj@gmail.com"; // Your email address to receive the message.
-$Subject = "hello"; // Subject of the email
+$Subject = Trim(stripslashes($_POST['Option'])); // Subject of the email
 $Name = Trim(stripslashes($_POST['Name'])); // Collecting the users Name
 
 // If statement checking whether the users email is valid
