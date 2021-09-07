@@ -196,14 +196,14 @@
   		<form name="gform" id="gform" enctype="text/plain" method="post" action="https://formspree.io/f/mleaaadq" target="hidden_iframe" onsubmit="submitted=true;"> <!-- Ensure the action attribute is the same as your php file -->
 			<input type="text" name="Name" id="Name" class="feedback-input" placeholder="Name" required/>
 			<input type="text" name="Email" id="Email" class="feedback-input" placeholder="Email" required/>
-			<select id="country" name="country">
+			<select id="country" name="Country">
       			<option value="general">General</option>
       			<option value="dance">Dance Classes</option>
       			<option value="online">Online Classes</option>
     		</select>
 			<br>
 			<textarea name="Message" rows="25" cols="20" class="feedback-input" id="Message" placeholder="Message"></textarea>
-			<input type="submit" name="submit" value="Submit" class="submit-button" /> 
+			<input type="submit" name="Submit" value="Submit" class="submit-button" /> 
 		</form>
 		
 		<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
