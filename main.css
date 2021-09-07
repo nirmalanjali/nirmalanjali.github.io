@@ -741,7 +741,7 @@ input[type=submit]:hover {
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {}
 
-/* Disable auto zoom in for input on Form fields */
+/* Disable auto zoom in for Form fields */
 @media screen and (-webkit-min-device-pixel-ratio:0) { 
   select:focus,
   textarea:focus,
