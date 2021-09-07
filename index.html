@@ -207,21 +207,21 @@
    			      </select>
 			      <br>
 			      <textarea name="Message" rows="25" cols="20" class="feedback-input" id="Message" placeholder="Message"></textarea>
-			      <input type="submit" name="submit" id="sendMessage" class="submit-button" /> </form>
+			      <button id="sendMessage">Send</button>
 	        </div>
 		<script>
 		var message = "";
 
-$("#sendMessage").on("click", function() {
-    message = $("#contactform").serialize();
-    $.ajax({
-        url: "https://formspree.io/f/xeqvvvoo", 
-        method: "POST",
-        data: {message: message},
-        dataType: "json"
-    });
-    alert('Thanks for the email, we\'ll be in touch promptly.');
-    return false;
+		$("#sendMessage").on("click", function() {
+    		message = $("#contactform").serialize();
+    		$.ajax({
+        		url: "//formspree.io/f/xeqvvvoo", 
+        		method: "POST",
+        		data: {message: message},
+        		dataType: "json"
+  		});
+    		alert('Thanks for the email, we\'ll be in touch promptly.');
+    		return false;
 		}); 
 		</script>
 	</div>
