@@ -201,7 +201,6 @@ input[type=text], select, textarea {
   margin-top: 6px; /* Add a top margin */
   margin-bottom: 16px; /* Bottom margin */
   resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
-  font-size: 16px;
 }
 
 /* Style the submit button with a specific background color etc */
@@ -212,7 +211,6 @@ input[type=submit] {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-  font-size: 16px;
 }
 
 /* When moving the mouse over the submit button, add a darker green color */
@@ -742,6 +740,16 @@ input[type=submit]:hover {
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {}
+
+/* Disable auto zoom in for input on Form fields */
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+  select:focus,
+  textarea:focus,
+  input:focus {
+    font-size: 16px;
+    background: #eee;
+  }
+}
 
 /* Landing page animations */
 
