@@ -197,9 +197,9 @@
 			<input type="text" name="Name" id="Name" class="feedback-input" placeholder="Name" required/>
 			<input type="text" name="Email" id="Email" class="feedback-input" placeholder="Email" required/>
 			<select id="country" name="country">
-      			<option value="australia">Australia</option>
-      			<option value="canada">Canada</option>
-      			<option value="usa">USA</option>
+      			<option value="general">General</option>
+      			<option value="dance">Dance Classes</option>
+      			<option value="online">Online Classes</option>
     		</select>
 			<br>
 			<textarea name="Message" rows="25" cols="20" class="feedback-input" id="Message" placeholder="Message"></textarea>
@@ -209,7 +209,7 @@
 		<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 	</div>
 		
-		<script src="assets/js/jquery.min.js"></script>
+		<script src="js/jquery.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {
