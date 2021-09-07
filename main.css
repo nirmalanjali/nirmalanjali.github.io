@@ -844,23 +844,3 @@ section {
   margin-top: 5px;
   text-align: left;
 }
-
-.tiletwo img {
-  max-height: 110px;
-  max-width: 110px;
-  margin: 0;
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  z-index: -1;
-}
-
-.tiletwo:after {
-  content: '';
-  position: absolute;
-  width: 150px;
-  height: 100%;
-  right: 0;
-  top: 0;
-  background: rgba(255, 255, 255, 0.02);
-}
