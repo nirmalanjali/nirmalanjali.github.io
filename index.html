@@ -209,21 +209,7 @@
 			      <textarea name="Message" rows="25" cols="20" class="feedback-input" id="Message" placeholder="Message"></textarea>
 			      <button id="sendMessage">Send</button>
 	        </div>
-		<script>
-		var message = "";
-
-		$("#sendMessage").on("click", function() {
-    		message = $("#contactform").serialize();
-    		$.ajax({
-        		url: "//formspree.io/f/xeqvvvoo", 
-        		method: "POST",
-        		data: {message: message},
-        		dataType: "json"
-  		});
-    		alert('Thanks for the email, we\'ll be in touch promptly.');
-    		return false;
-		}); 
-		</script>
+		 <script src="https://nirmalanjali.github.io/nirmalanjali/form.js"></script>
 	</div>
           <h3 data-aos="zoom-in-up" data-aos-easing="ease" data-aos-duration="750">Email</h3>
             <div id="contact-container">
