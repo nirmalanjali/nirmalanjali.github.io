@@ -246,7 +246,7 @@ input[type=submit]:hover {
   display: inline-block;
 }
 
-#blog {
+#testimony {
   background-color: #161616;
 }
 
@@ -692,7 +692,7 @@ input[type=submit]:hover {
   .tile p {
     padding-right: 150px;
   }
-  .blog-separator {
+  .testimony-separator {
     margin-right: 150px
   }
 }
