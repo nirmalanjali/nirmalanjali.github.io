@@ -1,16 +1,3 @@
-var message = "";
-
-		$("#sendMessage").on("click", function() {
-    		message = $("#contactform").serialize();
-    		$.ajax({
-        		url: "//formspree.io/f/xeqvvvoo",
-        		method: "POST",
-        		data: {message: message},
-        		dataType: "json"
-  		});
-    		return false;
-		});
-
 function pushNotify() {
   new Notify({
     status: 'success',
