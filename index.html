@@ -195,7 +195,7 @@
 	<div class="tilesWrap">	
 	<div class="tiletwo" data-aos="zoom-in-up" data-aos-easing="ease" data-aos-duration="750">
   		<form name="gform" id="gform" method="post" action="https://formspree.io/f/mleaaadq" target="hidden_iframe" onsubmit="submitted=true;"> <!-- Ensure the action attribute is the same as your php file -->
-			<input type="text" name="Name" id="Name" class="feedback-input" placeholder="Name" required/>
+			<h3><input type="text" name="Name" id="Name" class="feedback-input" placeholder="Name" required/>
 			<input type="text" name="Email" id="Email" class="feedback-input" placeholder="Email" required/>
 			<select id="country" name="Country">
       			<option value="general">General</option>
@@ -204,7 +204,7 @@
     		</select>
 			<br>
 			<textarea name="Message" rows="6" cols="7" class="feedback-input" id="Message" placeholder="Type your message here..."></textarea>
-			<input type="submit" name="Submit" value="Submit" class="submit-button" />
+				<input type="submit" name="Submit" value="Submit" class="submit-button" /></h3>
 		</form>
 			<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 	</div>
