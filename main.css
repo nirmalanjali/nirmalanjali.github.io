@@ -782,7 +782,7 @@ section {
 
 .hero img {
   height: 150px;
-  max-height: 20%;
+  max-height: 50%;
   display: block;
   margin: auto;
 }
