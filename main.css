@@ -775,7 +775,9 @@ section {
 }
 
 .hero {
-  
+  height: 60%;
+  width: 80%;
+  position: relative;
 }
 
 .hero img {
