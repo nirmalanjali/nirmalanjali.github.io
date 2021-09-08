@@ -739,10 +739,6 @@ input[type=submit]:hover {
   .school img {
     width: 75%;
   }
-  
-  .hero img {
-    width 75%
-  }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -785,13 +781,8 @@ section {
 }
 
 .hero img {
-  width: 60%;
-  height: auto;
-  display: block;
-  margin: auto;
-  max-width: 100vw;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  max-width: 15%;
+  max-height:15%
 }
 
 /* SVG animation */
