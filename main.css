@@ -31,7 +31,6 @@ h5 {
   overflow: hidden;
   z-index: 100;
   transition: .3s;
-  border: 2px solid #F3EFE0;
 }
 
 .profile_img:hover {
