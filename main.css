@@ -146,16 +146,15 @@ hr {
 
 .school h2 {
   font-weight: normal;
-  text-transform: uppercase;
   text-align: center;
-  margin: 0;
-  margin-top: 10px;
+  margin: auto;
+  margin-bottom: 10px;
 }
 
 .school h3 {
   font-weight: normal;
-  text-transform: uppercase;
-  margin-top: 0;
+  text-align: center;
+  margin: auto;
 }
 
 .school h4 {
