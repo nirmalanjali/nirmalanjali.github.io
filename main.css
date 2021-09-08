@@ -775,15 +775,15 @@ section {
 }
 
 .hero {
-  height: 100%;
-  width: 100%;
+  height: 60%;
+  width: 80%;
   position: relative;
 }
 
 .hero img {
-  width: 20%;
-  height: 20%;
-  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
   object-position: 50% 0%;
   transform: translate(0, -12vh);
   border-radius: 10px;
