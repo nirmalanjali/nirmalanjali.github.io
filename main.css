@@ -786,6 +786,8 @@ section {
   height: 100%;
   object-fit: cover;
   object-position: 50%, 0%;
+  display: block;
+  margin: auto;
 }
 
 /* SVG animation */
