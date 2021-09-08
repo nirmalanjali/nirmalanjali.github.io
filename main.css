@@ -739,6 +739,10 @@ input[type=submit]:hover {
   .school img {
     width: 75%;
   }
+  
+  .hero img {
+    height: 300px;
+  }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
