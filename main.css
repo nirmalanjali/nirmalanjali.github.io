@@ -154,7 +154,6 @@ hr {
 }
 
 .schooltwo h1 {
-  margin: auto;
   margin-top: 5px;
   text-align: center;
   color: #0171E3;
@@ -187,7 +186,8 @@ hr {
   color: #F3EFE0;
   font-weight: normal;
   font-size: 30px;
-  margin: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 .school h3 {
