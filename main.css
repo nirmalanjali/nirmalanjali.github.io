@@ -97,7 +97,7 @@ hr {
 }
 
 #home {
-  background-color: #080808;
+  background-color: #212738;
 }
 
 #gurus {
@@ -192,7 +192,7 @@ hr {
 }
 
 #academy {
-  background-color: #080808;
+  background-color: #212738;
 }
 
 /* Style inputs with type="text", select elements and textareas */
@@ -230,7 +230,7 @@ input[type=submit]:hover {
 }
 
 #contact {
-  background-color: #080808;
+  background-color: #212738;
 }
 
 #contact-container {
@@ -301,7 +301,7 @@ input[type=submit]:hover {
 }
 
 #footer {
-  background-color: #080808;
+  background-color: #212738;
   text-align: center;
   padding: 20px;
 }
@@ -610,7 +610,7 @@ input[type=submit]:hover {
   position: relative;
   vertical-align: top;
   margin: 10px;
-  background: #080808;
+  background: #212738;
   border-radius: 10px;
   color: #F3EFE0;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
