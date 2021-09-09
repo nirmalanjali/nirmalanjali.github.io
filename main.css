@@ -177,7 +177,6 @@ hr {
 }
 
 .schooltwo h2 {
-  display: flex;
   text-align: center;
   font-style: italic;
   color: #F3EFE0;
@@ -765,6 +764,10 @@ input[type=submit]:hover {
 
   #landing-text h1:after {
     right: -10%;
+  }
+  
+  .schooltwo h1 {
+    font-size: 7.5vw !important;
   }
 }
 
