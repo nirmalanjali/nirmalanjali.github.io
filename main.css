@@ -786,6 +786,14 @@ input[type=submit]:hover {
   .school img {
     width: 75%;
   }
+  
+  .schooltwo .first {
+    margin: 0;
+  }
+
+  .schooltwo img {
+    width: 75%;
+  }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
