@@ -765,10 +765,6 @@ input[type=submit]:hover {
   #landing-text h1:after {
     right: -10%;
   }
-  
-  .schooltwo h1 {
-    font-size: 7.5vw !important;
-  }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
