@@ -355,8 +355,8 @@ input[type=submit]:hover {
 #landing-text {
   margin: auto;
   max-width: 80%;
-  /*transform: translate(0, -15vh);*/
-  transition: all .2s ease-in-out;
+  /*transform: translate(0, -15vh);
+  transition: all .2s ease-in-out;*/
 }
 
 #landing-text h1 {
