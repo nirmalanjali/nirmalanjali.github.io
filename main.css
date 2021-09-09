@@ -832,8 +832,7 @@ section {
 .hero {
   height: 60%;
   width: 80%;
-  /*position: relative;*/
-  z-index: 1;
+  position: relative;
 }
 /*
 .hero img {
