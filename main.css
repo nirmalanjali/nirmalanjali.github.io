@@ -831,6 +831,7 @@ section {
 
 .hero {
   background-color: #080808;
+  position: relative;
   /*z-index: 1;*/
 }
 
