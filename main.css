@@ -834,16 +834,16 @@ section {
   width: 80%;
   position: relative;
 }
-/*
+
 .hero img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-  object-position: 50% 0%;
-  transform: translate(0, -12vh);
-  /*border-radius: 10px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
-/*}*/
+  width: 60%;
+  height: auto;
+  display: block;
+  margin: auto;
+  max-width: 100vw;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 /* SVG animation */
 
