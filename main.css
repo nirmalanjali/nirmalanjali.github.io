@@ -830,9 +830,8 @@ section {
 }
 
 .hero {
-  height: 60%;
-  width: 80%;
-  position: relative;
+  background-color: #080808;
+  z-index: 1;
 }
 
 .hero img {
