@@ -101,7 +101,7 @@ hr {
 }
 
 #gurus {
-  background-color: #353F5A;
+  background-color: #161616;
   z-index: 1;
 }
 
@@ -251,11 +251,11 @@ input[type=submit]:hover {
 }
 
 #testimony {
-  background-color: #353F5A;
+  background-color: #161616;
 }
 
 #connect {
-  background-color: #353F5A;
+  background-color: #161616;
 }
 
 #connect .connect_social_media {
@@ -301,7 +301,7 @@ input[type=submit]:hover {
 }
 
 #footer {
-  background-color: #212738;
+  background-color: #080808;
   text-align: center;
   padding: 20px;
 }
