@@ -177,6 +177,7 @@ hr {
 }
 
 .schooltwo h2 {
+  display: flex;
   text-align: center;
   font-style: italic;
   color: #F3EFE0;
@@ -240,7 +241,7 @@ hr {
 }
 
 #academy {
-  background-color: #212738;
+  background-color: #080808;
 }
 
 /* Style inputs with type="text", select elements and textareas */
