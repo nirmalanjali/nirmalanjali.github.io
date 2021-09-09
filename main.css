@@ -831,7 +831,7 @@ section {
 
 .hero {
   background-color: #080808;
-  z-index: 1;
+  /*z-index: 1;*/
 }
 
 .hero img {
