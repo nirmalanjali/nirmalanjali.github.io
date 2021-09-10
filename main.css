@@ -106,8 +106,7 @@ hr {
 }
 
 #gallery {
-  background-image: linear-gradient(to left, #353F5A, #080808);
-  /*background-color: #161616;*/
+  background-color: #161616;
 }
 
 #gurus {
