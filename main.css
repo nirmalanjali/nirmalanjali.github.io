@@ -320,7 +320,7 @@ input[type=submit]:hover {
 #landing-text h1 {
   margin: auto;
   text-align: center;
-  color: #C3423F;
+  color: #0171E3;
   max-width: 100%;
   position: relative;
   font-weight: 900;
@@ -342,7 +342,7 @@ input[type=submit]:hover {
   display: block;
   width: 10%;
   height: 2px;
-  background: #C3423F;
+  background: #0171E3;
   right: -5%;
   top: 50%;
   position: absolute;
@@ -767,7 +767,7 @@ input[type=submit]:hover {
   left: 0;
   width: 100%;
   height: 100vh;
-  background: linear-gradient(to left, #080808, #212738);
+  background: linear-gradient(to left, #353F5A, #080808);
 }
 
 section {
