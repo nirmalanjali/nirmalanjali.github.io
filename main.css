@@ -106,11 +106,12 @@ hr {
 }
 
 #gallery {
-  background-color: #161616;
+  background-image: linear-gradient(to left, #353F5A, #080808);
+  /*background-color: #161616;*/
 }
 
 #gurus {
-  background-color: #343d46;
+  background-color: #161616;
   z-index: 1;
 }
 
@@ -201,7 +202,8 @@ hr {
 }
 
 #academy {
-  background-color: #161616;
+  background-image: linear-gradient(to left, #353F5A, #080808);
+  /*background-color: #161616;*/
 }
 
 /* Style inputs with type="text", select elements and textareas */
@@ -260,7 +262,7 @@ input[type=submit]:hover {
 }
 
 #testimony {
-  background-color: #343d46;
+  background-color: #161616;
 }
 
 #connect {
