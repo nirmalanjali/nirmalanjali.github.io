@@ -101,11 +101,11 @@ hr {
 }
 
 #about {
-  background-color: #343d46;
+  background-color: #161616;
 }
 
 #gurus {
-  background-color: #161616;
+  background-color: #343d46;
   z-index: 1;
 }
 
@@ -196,7 +196,7 @@ hr {
 }
 
 #academy {
-  background-color: #080808;
+  background-color: #161616;
 }
 
 /* Style inputs with type="text", select elements and textareas */
@@ -255,7 +255,7 @@ input[type=submit]:hover {
 }
 
 #testimony {
-  background-color: #161616;
+  background-color: #343d46;
 }
 
 #connect {
