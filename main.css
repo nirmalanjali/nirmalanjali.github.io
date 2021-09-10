@@ -976,7 +976,7 @@ body, html {
 
 .bg-image {
   /* The image used */
-  background-image: url("photographer.jpg");
+  background-image: url("images/image3.jpeg");
 
   /* Add the blur effect */
   filter: blur(8px);
