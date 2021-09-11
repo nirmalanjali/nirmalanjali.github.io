@@ -102,8 +102,7 @@ hr {
 
 #about {
   background-image: url("images/image3.jpeg");
-  background-color: #161616;
-  opacity: .7;
+  /*background-color: #161616;*/
 }
 
 #gallery {
