@@ -135,16 +135,6 @@ hr {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-#academy img {
-  width: 60%;
-  height: auto;
-  display: block;
-  margin: auto;
-  max-width: 100vw;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
 .split-container {
   display: flex;
   flex-direction: column;
@@ -224,6 +214,16 @@ hr {
 #academy {
   background-image: linear-gradient(to left, #353F5A, #080808);
   /*background-color: #161616;*/
+}
+
+#academy img {
+  width: 60%;
+  height: auto;
+  display: block;
+  margin: auto;
+  max-width: 100vw;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 /* Style inputs with type="text", select elements and textareas */
