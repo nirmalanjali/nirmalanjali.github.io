@@ -1,6 +1,6 @@
 # nirmalanjaliacademy.com
 
-This web application is innovated and developed by: AARON JOHN (https://github.com/aaronjohn2).
+This web application is innovated and developed by: Aaron John (https://github.com/aaronjohn2).
 
 https://www.nirmalanjaliacademy.com
 
