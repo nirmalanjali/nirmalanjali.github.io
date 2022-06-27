@@ -1,8 +1,8 @@
 # nirmalanjaliacademy.com
 
-This web application is innovated and developed by: Aaron John (https://github.com/aaronjohn2)
+https://www.nirmalanjaliacademy.com/
 
-https://www.nirmalanjaliacademy.com
+This web application is innovated and developed by: Aaron John (https://github.com/aaronjohn2)
 
 Copyright 2022 Nirmalanjali Academy of Bharathanatyam. All Rights Reserved.
 
