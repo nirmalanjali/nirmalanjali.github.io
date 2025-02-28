@@ -2,7 +2,7 @@
 
 https://www.nirmalanjaliacademy.com/
 
-Copyright 2022 Nirmalanjali Academy of Bharathanatyam. All Rights Reserved.
+Nirmalanjali Academy of Bharathanatyam. All Rights Reserved.
 
 No part of this publication may be reproduced, distributed, or
 transmitted in any form or by any means, including
