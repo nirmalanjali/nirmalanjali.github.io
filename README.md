@@ -1,6 +1,6 @@
 # nirmalanjaliacademy.com
 
-https://www.nirmalanjaliacademy.com/
+https://nirmalanjaliacademy.com/
 
 Nirmalanjali Academy of Bharathanatyam. All Rights Reserved.
 
